@@ -38,5 +38,9 @@ Link to developer guide
 Link to contribution guide
 
 ### List of Contributors
-List
+Samir Tata, LG Electronics
+Mohamed Mohamed, LG Electronics
+Gina Kang, LG Electronics
+Faisal Mohammad, LG Electronics
+James Hazen, LG Electronics
 
