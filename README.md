@@ -7,7 +7,8 @@ TODO: give an overview of the data marketplace
 
 ## Architecture overview
 TODO: insert a figure (overview of the architecture)
-<img src="docs/images/architecture.png" width="1000">
+<img src="images/architecture.png" width="1000">
+
 ## Datagraviti detailed services
 
 ### Hyperledger Chaincode
