@@ -35,14 +35,18 @@ TODO: insert a figure (overview of the architecture)
 ### Developer guide
 Link to developer guide
 
-### Contribution guide
-Link to contribution guide
+### Contribution
+To contribute, follow the guidelines in [Contribution guide](contribution-guide.md)
+
+### Support
+For any questions, suggestions, or issues, use Github.
 
 ### List of Contributors
 Samir Tata, LG Electronics
-Mohamed Mohamed, LG Electronics
-Gina Kang, LG Electronics
-Faisal Mohammad, LG Electronics
+
+Mohamed Mohamed, LG Electronics \
+Gina Kang, LG Electronics \
+Faisal Mohammad, LG Electronics \
 James Hazen, LG Electronics
 
 
