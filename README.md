@@ -2,11 +2,13 @@
 ## A Data Marketplace based on Hyperledger Fabric
 This repository contains the root repository of the data marketplace initiative.
 
+Datagraviti is a decentralized data marketplace based on Hyperledger Fabric, a blockchain framework implementation hosted by The Linux Foundation. The purpose of the developed data marketplace is to ensure data exchange in a decentralized setting between data providers and consumers organized into a consortium. The data marketplace is permissioned, enterprise grade, decentralized data exchange platform for data professionals and industry consortiums who value control and privacy.  
 
-TODO: give an overview of the data marketplace
+The platform takes the most of Hyperledger Fabric by implementing a chaincode (smart contract) that enforce data ownership and protect privacy in data exchange. It uses an overlay of decentralized severs built on top of Hyperledger Fabric to ensure data cataloging, data storage and data stream delivery. The platform is also provided with a portal to be used by end users to browse, search, buy, sell and consume data (in different forms). 
+
+The platform should be operated by a consortium of data players who are willing to exchange and monetize data including not only selling and buying but also processing data.
 
 ## Architecture overview
-TODO: insert a figure (overview of the architecture)
 <img src="images/architecture.png" width="1000">
 
 ## Datagraviti detailed services
