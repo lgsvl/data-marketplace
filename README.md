@@ -13,6 +13,14 @@ The platform should be operated by a consortium of data players who are willing 
 
 ## Datagraviti detailed services
 
+### Environment Setup
+
+We used Hyperldger Fabric as an underlying blockchain infrastructure to support the data marketplace.
+In this use case, we were inspired by the open source community deployment tutorials to deploy Fabric on top of Kubernetes.
+Specifically, we followed [this tutorial](https://github.com/IBM/blockchain-network-on-kubernetes#4-deploy-hyperledger-fabric-network-into-kubernetes-cluster).
+The new deployment artifacts and scripts that we created are in this repository:
+[data-marketplace-hyperledger-fabric](https://github.com/lgsvl/data-marketplace-hyperledger-fabric).
+
 ### Hyperledger Chaincode
 ...add description and link to chaincode repo
 - [Data marketplace chaincode](https://github.com/lgsvl/data-marketplace-chaincode)
