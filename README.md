@@ -33,6 +33,10 @@ The platform should be operated by a consortium of data players who are willing 
 ... add description and link to repo
 - [Data marketplace facade](https://github.com/lgsvl/data-marketplace-facade)
 
+### Data marketplace ElasticSearch Feeder
+... add description and link to repo
+- [Data marketplace ElasticSearch Feeder](https://github.com/lgsvl/data-marketplace-esearchFeeder)
+
 ### Web Portal
 ... add description and link to repo
 - [Data marketplace portal](https://github.com/lgsvl/data-marketplace-portal)
