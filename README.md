@@ -62,7 +62,7 @@ For any questions, suggestions, or issues, use Github.
 ### List of Contributors
 [Samir Tata](https://www.linkedin.com/in/samirtata/), LG Electronics \
 [Mohamed Mohamed](https://www.linkedin.com/in/mohamedmohamedphd/), LG Electronics \
-[Gina Kang](https://www.linkedin.com/in/gina-baek-9161bb30/), LG Electronics \
+[Gina Baek](https://www.linkedin.com/in/gina-baek-9161bb30/), LG Electronics \
 [Faisal Mohammad](https://www.linkedin.com/in/faisalmohammad27/), LG Electronics \
 [James Hazen](https://www.linkedin.com/in/jim-hazen-204a741/), LG Electronics \
 [Jacob Song](https://www.linkedin.com/in/jacob-song-1bb2301/), LG Electronics \
