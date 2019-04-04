@@ -65,7 +65,7 @@ For any questions, suggestions, or issues, use Github.
 Gina Kang, LG Electronics \
 [Faisal Mohammad](https://www.linkedin.com/in/faisalmohammad27/), LG Electronics \
 [James Hazen](https://www.linkedin.com/in/jim-hazen-204a741/), LG Electronics \
-[Jacob Song](https://www.linkedin.com/in/jacob-song-1bb2301/), LG Electronics \ 
+[Jacob Song](https://www.linkedin.com/in/jacob-song-1bb2301/), LG Electronics \
 [Angela Lau](https://www.linkedin.com/in/angelal/), LG Electronics \
 Jae Young Jung, LG Electronics \
 [Lily Hu](https://www.linkedin.com/in/lilyhusf/), LG Electronics 
