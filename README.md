@@ -68,7 +68,7 @@ Gina Kang, LG Electronics \
 [Jacob Song](https://www.linkedin.com/in/jacob-song-1bb2301/), LG Electronics \ 
 [Angela Lau](https://www.linkedin.com/in/angelal/), LG Electronics \
 Jae Young Jung, LG Electronics \
-[Lily Hu](https://www.linkedin.com/in/lilyhusf/), LG Electronics \
+[Lily Hu](https://www.linkedin.com/in/lilyhusf/), LG Electronics 
 
 ### License
 Copyright 2018, 2019 LG Electronics.
