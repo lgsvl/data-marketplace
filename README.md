@@ -60,12 +60,15 @@ To contribute, follow the guidelines in [Contribution guide](contribution-guide.
 For any questions, suggestions, or issues, use Github.
 
 ### List of Contributors
-Samir Tata, LG Electronics \
-Mohamed Mohamed, LG Electronics \
+[Samir Tata](https://www.linkedin.com/in/samirtata/), LG Electronics \
+[Mohamed Mohamed](https://www.linkedin.com/in/mohamedmohamedphd/), LG Electronics \
 Gina Kang, LG Electronics \
-Faisal Mohammad, LG Electronics \
-James Hazen, LG Electronics
-
+[Faisal Mohammad[(https://www.linkedin.com/in/faisalmohammad27/), LG Electronics \[
+[James Hazen](https://www.linkedin.com/in/jim-hazen-204a741/), LG Electronics \
+[Jacob Song](https://www.linkedin.com/in/jacob-song-1bb2301/), LG Electronics \ 
+[Angela Lau](https://www.linkedin.com/in/angelal/), LG Electronics \
+Jae Young Jung, LG Electronics \
+[Lily Hu](https://www.linkedin.com/in/lilyhusf/), LG Electronics \
 
 ### License
 Copyright 2018, 2019 LG Electronics.
