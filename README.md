@@ -1,8 +1,8 @@
-# Datagraviti: 
+# DataGraviti: 
 ## A Data Marketplace based on Hyperledger Fabric
 This repository contains the root repository of the data marketplace initiative.
 
-Datagraviti is a decentralized data marketplace based on Hyperledger Fabric, a blockchain framework implementation hosted by The Linux Foundation. The purpose of the developed data marketplace is to ensure data exchange in a decentralized setting between data providers and consumers organized into a consortium. The data marketplace is permissioned, enterprise grade, decentralized data exchange platform for data professionals and industry consortiums who value control and privacy.  
+DataGraviti is a decentralized data marketplace based on Hyperledger Fabric, a blockchain framework implementation hosted by The Linux Foundation. The purpose of the developed data marketplace is to ensure data exchange in a decentralized setting between data providers and consumers organized into a consortium. The data marketplace is permissioned, enterprise grade, decentralized data exchange platform for data professionals and industry consortiums who value control and privacy.  
 
 The platform takes the most of Hyperledger Fabric by implementing a chaincode (smart contract) that enforce data ownership and protect privacy in data exchange. It uses an overlay of decentralized severs built on top of Hyperledger Fabric to ensure data cataloging, data storage and data stream delivery. The platform is also provided with a portal to be used by end users to browse, search, buy, sell and consume data (in different forms). 
 
@@ -11,7 +11,7 @@ The platform should be operated by a consortium of data players who are willing 
 ## Architecture overview
 <img src="images/architecture.png" width="1000">
 
-## Datagraviti detailed services
+## DataGraviti detailed services
 
 ### Environment Setup
 
@@ -46,7 +46,7 @@ This [component](https://github.com/lgsvl/data-marketplace-esearchFeeder) is res
 The [portal](https://github.com/lgsvl/data-marketplace-portal) is the main entry point of the data marketplace because it orchestrates all the calls to the different components and abstracts the difficulties behind managing the chaincode. The portal is written in Angular and makes the right calls to the different components of the marketplace. In order to run the portal you need to have all the other components up and running.
 
 ### CI/DC pipeline
-In order to help getting started and reusing the data marketplace, we shared our [development pipeline](https://github.com/lgsvl/data-marketplace-pipeline) that uses concourse to run the tests for the different components of the platform, build docker images, pushes them to the registry and deploy the latest code to Kubernetes. We installed concourse follwoing this [repository](https://github.com/concourse/concourse-docker).
+In order to help getting started and reusing the data marketplace, we shared our [development pipeline](https://github.com/lgsvl/data-marketplace-pipeline) that uses concourse to run the tests for the different components of the platform, build docker images, pushes them to the registry and deploy the latest code to Kubernetes. We installed concourse following this [repository](https://github.com/concourse/concourse-docker).
 
 ### Contribution
 To contribute, follow the guidelines in [Contribution guide](contribution-guide.md)
